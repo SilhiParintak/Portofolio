@@ -1,0 +1,14 @@
+{
+  "name": "Portofolio",
+  "homepage": "https://silhiparintak.github.io/Portofolio",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.0.1"
+  }
+}
